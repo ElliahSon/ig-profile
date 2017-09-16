@@ -12,11 +12,17 @@ body {
 
 #top-bar {
 	height: 145px;
-	background-image: url("./image/Top-bar.png");
+	background-image: url(image/Top-bar.png);
 	text-align: center;
+}
+
+#follower-count {
+	height: 355px;
+	background-image: url(image/Follower-Count.png);
+}
+
+#profile-picture {
 	
-
-
 }
 
 
