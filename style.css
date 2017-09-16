@@ -1,0 +1,22 @@
+body {
+	background-color: #fff0f5
+}
+
+#container {
+	width: 1080px
+	text-align: center;
+    background-color: white;
+    border-width: 3px; 
+    border-color: #DDDDDD
+}
+
+#top-bar {
+	height: 145px;
+	background-image: url("./image/Top-bar.png");
+	text-align: center;
+	
+
+
+}
+
+
